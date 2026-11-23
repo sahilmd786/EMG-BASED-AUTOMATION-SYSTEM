@@ -172,7 +172,7 @@ The `LICENSE` file should only be added after selecting an appropriate license. 
 The circuit diagram represents the hardware connections between the EMG sensor, microcontroller, relay module, and output appliance.
 
 <p align="center">
-  <img src="Circuit_Diagram/emg_circuit_diagram.png" alt="EMG Automation Circuit Diagram" width="800"/>
+  <img src="Hardware_Images/circuit_connection.jpg.png" alt="EMG Automation Circuit Diagram" width="800"/>
 </p>
 
 **Circuit connection details**
