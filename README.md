@@ -188,7 +188,7 @@ Refer to the uploaded circuit diagram for the actual pin connections.
 
 The complete microcontroller source code is available in:
 
-`Arduino_Code/emg_automation.ino`
+`Arduino_Code/emg_automation_ino.ino`
 
 The program implements the sensor-reading and appliance-control logic.
 
